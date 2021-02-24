@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsApp", "CardsApp\CardsApp.csproj", "{B45A4BEF-CFA7-4FC0-8D70-B5757F11A8AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardsApp", "CardsApp\CardsApp.csproj", "{B45A4BEF-CFA7-4FC0-8D70-B5757F11A8AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsFormApp", "CardsFormApp\CardsFormApp.csproj", "{FD066254-B4B4-4611-A388-3ABA4DB08367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B45A4BEF-CFA7-4FC0-8D70-B5757F11A8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45A4BEF-CFA7-4FC0-8D70-B5757F11A8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45A4BEF-CFA7-4FC0-8D70-B5757F11A8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD066254-B4B4-4611-A388-3ABA4DB08367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD066254-B4B4-4611-A388-3ABA4DB08367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD066254-B4B4-4611-A388-3ABA4DB08367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD066254-B4B4-4611-A388-3ABA4DB08367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
